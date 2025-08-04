@@ -1,4 +1,4 @@
-##WEB SCRAPING AND PRICE MONITORING APP
+## WEB SCRAPING AND PRICE MONITORING APP
 
 A Python-based desktop application that lets users monitor product prices on **Amazon** and **Flipkart**, filter results based on their budget, and receive **email alerts** for the best deals — all using web scraping, automation, and scheduling.
 
